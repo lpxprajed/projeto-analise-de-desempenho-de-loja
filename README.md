@@ -19,7 +19,7 @@ A análise foi conduzida utilizando a linguagem Python, com as bibliotecas Panda
 3. **Visualização**: Utilizamos gráficos para destacar as métricas mais importantes.
 
 ## 🔧 Ferramentas Utilizadas
-- **Python 3.x**
+- Language **Python 3.x**
 - **Jupyter Notebook**
 - **Pandas**: Manipulação e análise de dados
 - **Matplotlib**: Visualizações de dados
