@@ -19,10 +19,10 @@ A análise foi conduzida utilizando a linguagem Python, com as bibliotecas Panda
 3. **Visualização**: Utilizamos gráficos para destacar as métricas mais importantes.
 
 ## 🔧 Ferramentas Utilizadas
-- Language **Python 3.x**
+-  **Python**
 - **Jupyter Notebook**
-- **Pandas**: Manipulação e análise de dados
-- **Matplotlib**: Visualizações de dados
+- **Pandas**
+- **Matplotlib**
 
 ## 📊 Visualizações e Insights
 ### 1. Faturamento Total por Loja
